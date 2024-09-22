@@ -1,9 +1,0 @@
-C:/Users/zhuzh/Documents/Dev/qt/random/build/Desktop_Qt_6_7_2_MinGW_64_bit-MinSizeRel/CMakeFiles/random.dir
-C:/Users/zhuzh/Documents/Dev/qt/random/build/Desktop_Qt_6_7_2_MinGW_64_bit-MinSizeRel/CMakeFiles/edit_cache.dir
-C:/Users/zhuzh/Documents/Dev/qt/random/build/Desktop_Qt_6_7_2_MinGW_64_bit-MinSizeRel/CMakeFiles/rebuild_cache.dir
-C:/Users/zhuzh/Documents/Dev/qt/random/build/Desktop_Qt_6_7_2_MinGW_64_bit-MinSizeRel/CMakeFiles/list_install_components.dir
-C:/Users/zhuzh/Documents/Dev/qt/random/build/Desktop_Qt_6_7_2_MinGW_64_bit-MinSizeRel/CMakeFiles/install.dir
-C:/Users/zhuzh/Documents/Dev/qt/random/build/Desktop_Qt_6_7_2_MinGW_64_bit-MinSizeRel/CMakeFiles/install/local.dir
-C:/Users/zhuzh/Documents/Dev/qt/random/build/Desktop_Qt_6_7_2_MinGW_64_bit-MinSizeRel/CMakeFiles/install/strip.dir
-C:/Users/zhuzh/Documents/Dev/qt/random/build/Desktop_Qt_6_7_2_MinGW_64_bit-MinSizeRel/CMakeFiles/random_autogen_timestamp_deps.dir
-C:/Users/zhuzh/Documents/Dev/qt/random/build/Desktop_Qt_6_7_2_MinGW_64_bit-MinSizeRel/CMakeFiles/random_autogen.dir
