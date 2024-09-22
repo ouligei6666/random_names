@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-MinSizeRel-543f63e567129a27fa5a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "MinSizeRel",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "random",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "random::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-random-MinSizeRel-41df917092d04a06479f.json",
+					"name" : "random",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "random_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-random_autogen-MinSizeRel-4440a6d92adc7666025e.json",
+					"name" : "random_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "random_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-random_autogen_timestamp_deps-MinSizeRel-2c8c8dad1a0ad4d5ca2f.json",
+					"name" : "random_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/zhuzh/Documents/Dev/qt/random/build/Desktop_Qt_6_7_2_MinGW_64_bit-MinSizeRel",
+		"source" : "C:/Users/zhuzh/Documents/Dev/qt/random"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

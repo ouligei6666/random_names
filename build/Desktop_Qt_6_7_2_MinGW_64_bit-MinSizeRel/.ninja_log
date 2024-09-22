@@ -1,0 +1,9 @@
+# ninja log v6
+6	800	7486986115008313	random_autogen/timestamp	de31125271692eed
+6	800	7486986115008313	random_autogen/mocs_compilation.cpp	de31125271692eed
+6	800	7486986115008313	C:/Users/zhuzh/Documents/Dev/qt/random/build/Desktop_Qt_6_7_2_MinGW_64_bit-MinSizeRel/random_autogen/timestamp	de31125271692eed
+6	800	7486986115008313	C:/Users/zhuzh/Documents/Dev/qt/random/build/Desktop_Qt_6_7_2_MinGW_64_bit-MinSizeRel/random_autogen/mocs_compilation.cpp	de31125271692eed
+805	2485	7486986116028334	CMakeFiles/random.dir/random_autogen/mocs_compilation.cpp.obj	9eb8c0dab57042d7
+824	2541	7486986116220557	CMakeFiles/random.dir/mainwindow.cpp.obj	fcb84a2c646f2a43
+814	2924	7486986116118337	CMakeFiles/random.dir/main.cpp.obj	5d2d0082b152f67a
+2924	3064	7486986137218359	random.exe	25cf2bbd2ff3ce9a
